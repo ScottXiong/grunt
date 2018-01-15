@@ -40,5 +40,5 @@ module.exports = function(grunt) {
 };
 ```
 
-### 初始化
+### initial
 - nmp init/grunt-init(grunt --help)
